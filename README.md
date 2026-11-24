@@ -2,6 +2,9 @@
 
 [![make.fun](https://make.fun/badge.svg?owner=no125222&bounty=gta6-01)](https://make.fun/bounty/gta6-01)
 [![Play on make.fun](https://make.fun/badge-play.svg?owner=no125222)](https://make.fun/u/no125222)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/no125222/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/no125222/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An original open-world crime game built for the
 [Make GTA 6 bounty](https://make.fun/bounty/gta6-01) on make.fun — a complete,
